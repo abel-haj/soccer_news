@@ -1,2 +1,2 @@
-# soccer_news
-Web application &amp; API for soccer news management
+# Soccer News
+Web Application &amp; API for soccer news management
